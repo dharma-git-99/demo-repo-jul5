@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Buji's Demo Page</title>
+</head>
+<body>
+    <h1>Hello from GitHub Repo!</h1>
+    <p>This is a test file cloned from GitHub.</p>
+</body>
+</html>
